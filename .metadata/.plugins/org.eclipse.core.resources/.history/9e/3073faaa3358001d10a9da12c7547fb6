@@ -1,0 +1,5 @@
+package com.se.th8_client1.controller;
+
+public class GreetingController {
+
+}

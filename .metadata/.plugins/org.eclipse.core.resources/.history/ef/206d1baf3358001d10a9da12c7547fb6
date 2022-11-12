@@ -1,0 +1,6 @@
+package com.se.th8_client1.controller;
+
+public interface GreetingController {
+	 @RequestMapping("/greeting")
+	    String greeting();
+}
